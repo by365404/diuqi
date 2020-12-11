@@ -1,3 +1,20 @@
+##个人介绍
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>丢弃</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：50655928@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/by365404/diuqi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,7 +52,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-### 关于我
+## 关于我
 ```javascript
 var ihubo = {
   nickName  : "丢弃主页",
